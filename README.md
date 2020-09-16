@@ -4,10 +4,8 @@ Mockup of a book buying application built using C++ (DOS version) with file hand
 
 ### Sample screenshots of the application
 
-![main screen](https://github.com/TuhinKundu/Skycloud-Books/blob/master/skycloudproj.PNG)
+![main screen](https://github.com/TuhinKundu/Skycloud-Books/blob/master/screenshots/skycloudproj.PNG)
 
-![page1](https://github.com/TuhinKundu/Skycloud-Books/blob/master/skycloudcpp1.PNG)
+![page1](https://github.com/TuhinKundu/Skycloud-Books/blob/master/screenshots/skycloudcpp1.PNG)
 
-![page2](https://github.com/TuhinKundu/Skycloud-Books/blob/master/skycloudcpp2.PNG)
-
-![page3](https://github.com/TuhinKundu/Skycloud-Books/blob/master/skycloudcpp3.PNG)
+![page3](https://github.com/TuhinKundu/Skycloud-Books/blob/master/screenshots/skycloudcpp3.PNG)
